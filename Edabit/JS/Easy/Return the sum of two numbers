@@ -1,9 +1,10 @@
 # Create a function that takes two numbers as arguments and return their sum.
 --- 
-
+```js
 function addition(a, b) {
 	return a + b;
 }
+```
 ---
 
 First session with Daniel, needed explanation.5 mins
