@@ -1,0 +1,12 @@
+function makeNegative(num) {
+  // Code?
+  if(num < 0) {
+    return num;
+    } else {  // } else(num >= 0)
+    return -num;
+  }
+}
+
+link https://www.codewars.com/kata/55685cd7ad70877c23000102
+
+first one solved without any help from Danny (coding buddy)!!!! lets goooo hype, love doing these challenges, (haha Leetcode is waiting for me go cry about it)
