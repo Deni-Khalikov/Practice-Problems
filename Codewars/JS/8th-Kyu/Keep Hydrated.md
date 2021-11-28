@@ -4,9 +4,9 @@
 function litres(time) {
   return Math.floor(time/2);
 }
-
+```
 ---
 
 Link https://www.codewars.com/kata/582cb0224e56e068d800003c/train/javascript
 
-Thgouths: this wasnt too hard, had to look up math.floor to get the solution
+Thougths: this wasnt too hard, had to look up math.floor to get the solution
